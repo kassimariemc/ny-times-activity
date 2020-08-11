@@ -1,6 +1,8 @@
 # ny-times-activity
 A simple app to search New York Times articles given your desired parameters
 
+![image](https://user-images.githubusercontent.com/66877217/89917153-77e93080-dbc6-11ea-9e8e-a42333fb781b.png)
+
 ## Included Criteria
 
 * semantic HTML elements
